@@ -1,3 +1,8 @@
+# Juan Cardenas
+# 9/27/2026
+# Module 3.2 Assignment
+# Purpose: To practice brownfield development on an existing program that mimics a Cho-han game.
+
 """Cho-Han, by Al Sweigart al@inventwithpython.com
 The traditional Japanese dice game of even-odd.
 View this code at https://nostarch.com/big-book-small-python-projects
